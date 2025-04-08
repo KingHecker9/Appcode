@@ -1,0 +1,241 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  line-height: 30px;
+  font-family: sans-serif;
+}
+
+.navbar{
+padding: 25px;
+display: flex;
+justify-content: space-between;
+}
+
+#one{
+  color: grey;
+}
+
+.navbar li{
+  list-style-type: none;
+  position: relative;
+}
+
+.navbar ul{
+  /* display: flex; */
+}
+
+
+
+.pi{
+  width: 300px;
+}
+
+.navbar a{
+  font-size: 14px;
+  color: black;
+  text-decoration: none;
+}
+/* efjmrufh */
+.navbar-t{
+  background-color: #FF8C00;
+  height: 4pc;
+  padding: 2pc;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.on{
+  padding-top: 20px;
+  background: linear-gradient(to left,#FF8C00);
+}
+
+.navbar-t ul li:hover .dropdown{
+  display: block;
+  position: relative;
+}
+
+.dropdown{
+  display: none;
+  position: absolute;
+  z-index: 999;
+  background-color: white;
+}
+
+.dropdown ul{
+  display: block;
+}
+
+.dropdown ul li{
+  width: 250px;
+  padding-top: 1pc;
+  padding-bottom: 1pc;
+  border-bottom: 1px solid black;
+}
+
+.dropdown ul li:hover{
+  background-color: orange;
+}
+
+ #o{
+    color: grey;
+    font-size: 15px;
+}
+
+
+
+.navbar-t h1{
+color: white
+}
+
+.navbar-t ul{
+  list-style-type: none;
+  justify-content: space-between;
+  display: flex;
+}
+
+.navbar-t ul li{
+  justify-content: center;
+  padding: 20px;
+}
+
+.navbar-t ul li a{
+  text-decoration: none;
+  color: white;
+}
+/* cbv vhv */
+.nigga img{
+ width: 100%;
+}
+
+.navbar-t button{
+  color: white;
+  padding: 10px 16px;
+  background-color: black;
+  border-radius: 10px;
+  border: none;
+}
+
+
+
+/* fr y hmr hgr */
+.second{
+  text-align:  center;
+}
+
+
+
+.second h1{
+  margin-top: 200px;
+  font-weight: lighter;
+}
+
+.second p{
+  line-height: 20px;
+}
+
+.second img{
+  width: 72pc;
+}
+/* jdhjdhfhyhymd */
+.suc{
+  font-weight: lighter;
+  color: deeppink;
+  text-align: center;
+}
+/* jdhjdhfhyhymd */
+.kelvin{
+  justify-content: center;
+  display: flex;
+}
+
+.vin{
+    display: flex;
+    justify-content: center;
+}
+
+.kev{
+  display: flex;
+  margin: 95px;
+}
+
+.kel{
+  width: 400px;
+  justify-content: space-around;
+}
+
+.vin img{
+
+}
+/* hey  */
+.battery{
+  margin-left: 600px;
+  height: 40px;
+  border: none;
+  border-radius: 20px;
+  color: purple;
+  width: 200px;
+}
+/* hfyfy */
+.nut{
+  width: 100%;
+}
+
+.ntech{
+  height: 600px;
+  width: 100%;
+  background-attachment: fixed;
+  background-image: url("pics/ntech big.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/* fmykch */
+.black{
+  display: flex;
+  justify-content: space-between;
+  padding: 70px;
+}
+/* crjkiduidu */
+.last-but h1{
+  font-weight: lighter;
+  color: deeppink;
+  text-align: center;
+}
+
+.last-but p{
+  text-align: center;
+}
+
+.com{
+  margin-left: 200px;
+}
+/* jfvmrfrgt */
+.footer{
+  display: flex;
+  background-color: black;
+  justify-content: center;
+  height: 300px;
+}
+
+.footer ul{
+  margin-top: 100px;
+}
+
+.footer img{
+  margin-top: 100px;
+}
+
+.footer li{
+  margin-left: 300px;
+  list-style-type: none;
+}
+
+.footer li a{
+  text-decoration: none;
+  color: white;
+}
+
+.footer img{
+width: 300px;
+}
